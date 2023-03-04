@@ -1,2 +1,2 @@
 # password-manager-new
-Intermediate - Errors, Exceptions and JSON Data: Improving the Password
+Day 34 - Errors, Exceptions and JSON Data: Improving the Password
